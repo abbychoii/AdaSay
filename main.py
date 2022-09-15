@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("Cowie")
+cowsay.cow("COWABUNGA")
